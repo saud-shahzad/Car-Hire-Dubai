@@ -4,6 +4,7 @@ import Counter from "~/components/Counter";
 export default function Home() {
   return (
     <main>
+      <meta name="google-site-verification" content="MxBXJqaraLTtv1pULgZzobHIJD29tNHEQHy4CBzxx0w" />
       <Title>Car Hire Dubai: Your Ultimate Guide to Renting in Style</Title>
       <h1>Car Hire in Dubai: Your Ultimate Guide to Exploring the City in Style</h1>
     
