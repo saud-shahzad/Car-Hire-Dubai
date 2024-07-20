@@ -3,7 +3,6 @@ import Counter from "~/components/Counter";
 
 export default function Home() {
   return (
-          <meta name="google-site-verification" content="MxBXJqaraLTtv1pULgZzobHIJD29tNHEQHy4CBzxx0w" />
 
     <main>
       <Title>Car Hire Dubai: Your Ultimate Guide to Renting in Style</Title>
