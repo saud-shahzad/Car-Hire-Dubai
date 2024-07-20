@@ -4,7 +4,7 @@ import Counter from "~/components/Counter";
 export default function Home() {
   return (
     <main>
-      <Title>Hello World</Title>
+      <Title>Car Hire Dubai: Your Ultimate Guide to Renting in Style</Title>
       <h1>Car Hire in Dubai: Your Ultimate Guide to Exploring the City in Style</h1>
     
       <p>
